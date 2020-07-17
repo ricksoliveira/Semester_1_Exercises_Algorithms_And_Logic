@@ -1,2 +1,2 @@
-# Semestre_1_Exercicios
-Exercícios de Listas e tarefas desenvolvidos no 1º Semestre
+# Semestre_1_Exercises
+Exercises from lists and tasks developed in the 1st Semester
